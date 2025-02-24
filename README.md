@@ -1,3 +1,6 @@
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRldjhjMml2cTk4aW9jaXBkZXU4cWFlaDRwdmg5dHoybzAycTB1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8DTnuPhxv0m4w/giphy.gif
+
+
 # 💫 About Me:
 To become a full stack developer
 
