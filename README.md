@@ -2,6 +2,9 @@
 
 ###
 
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW41YWhxNWNlZWt1OGt4a3B3a25qeWdrc3B1bW40NTNwYzV4eGVxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cuPm4p4pClZVC/giphy.gif
+###
+
 <h3 align="center">
   Currently pursuing my bachelor’s degree with a goal to become a Full Stack Developer.
 </h3>
