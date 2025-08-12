@@ -4,25 +4,20 @@
 
 <br/>
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
-    <div style="max-width: 550px; text-align: left;">
-      <h3>🚀 About Me</h3>
-      <p>
-        ✨ Currently working as a frontend developer at SG Design Group<br/>
-        📚 Currently learning Strapi and exploring new backend tools<br/>
-        🎯 Goals: Master full stack development, contribute to open source, and build scalable apps<br/>
-        🎲 Fun fact: I love solving puzzles and exploring new tech trends
-      </p>
-    </div>
-    <img 
-      src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW41YWhxNWNlZWt1OGt4a3B3a25qeWdrc3B1bW40NTNwYzV4eGVxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cuPm4p4pClZVC/giphy.gif"
-      alt="Coding GIF"
-      width="280"
-      height="280"
-      style="border-radius: 12px;"
-    />
-  </div>
+<div align="center" style="max-width: 850px; display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <p align="left" style="max-width: 550px; line-height: 1.6; font-size: 1.1rem; margin: 0;">
+    ✨ Currently working as a frontend developer at SG Design Group <br />
+    📚 Currently learning Strapi and exploring new backend tools <br />
+    🎯 Goals: Master full stack development, contribute to open source, and build scalable apps <br />
+    🎲 Fun fact: I love solving puzzles and exploring new tech trends
+  </p>
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW41YWhxNWNlZWt1OGt4a3B3a25qeWdrc3B1bW40NTNwYzV4eGVxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cuPm4p4pClZVC/giphy.gif"
+    alt="Coding GIF"
+    width="280"
+    height="280"
+    style="border-radius: 12px; box-shadow: 0 6px 15px rgba(0,0,0,0.2); object-fit: cover;"
+  />
 </div>
 
 <br/>
