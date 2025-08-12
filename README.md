@@ -9,19 +9,18 @@
 ###
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW41YWhxNWNlZWt1OGt4a3B3a25qeWdrc3B1bW40NTNwYzV4eGVxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cuPm4p4pClZVC/giphy.gif"/>
-</div>
-
-###
-
-<p align="left">
+  <p align="left">
   ✨ Currently working as a frontend developer at SG Design Group <br>
   📚 Currently learning Strapi and exploring new backend tools <br>
   🎯 Goals: Master full stack development, contribute to open source, and build scalable apps <br>
   🎲 Fun fact: I love solving puzzles and exploring new tech trends
 </p>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW41YWhxNWNlZWt1OGt4a3B3a25qeWdrc3B1bW40NTNwYzV4eGVxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cuPm4p4pClZVC/giphy.gif"
+    align="right" />
+</div>
 
 ###
+
 
 <h3 align="left">Ways to Connect</h3>
 
