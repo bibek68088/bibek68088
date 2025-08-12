@@ -17,6 +17,8 @@
 
 ###
 
+<h3 align="left">Ways to Connect</h3>
+
 <div align="left" style="margin-top: 10px; margin-bottom: 20px;">
   <a href="https://linkedin.com/in/bibek-tamang-890721269/" target="_blank" rel="noopener noreferrer" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
