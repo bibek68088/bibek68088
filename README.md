@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bibek</h1>
 
----
+###
 
 <h3 align="center">
   Currently pursuing my bachelor’s degree with a goal to become a Full Stack Developer.
 </h3>
 
----
+###
 
 <p align="left">
   ✨ Currently working as a frontend developer at SG Design Group <br>
@@ -15,7 +15,7 @@
   🎲 Fun fact: I love solving puzzles and exploring new tech trends
 </p>
 
----
+###
 
 <div align="left" style="margin-top: 10px; margin-bottom: 20px;">
   <a href="https://linkedin.com/in/bibek-tamang-890721269/" target="_blank" rel="noopener noreferrer" style="margin-right: 12px;">
@@ -31,7 +31,7 @@
 
 <h2 align="left" style="margin-bottom: 10px;">Tools & Technologies</h2>
 
----
+###
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
 </div>
 
----
+###
 
 <div align="center" style="margin-top: 30px;">
   <img src="https://github-readme-stats.vercel.app/api?username=bibek68088&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub stats" />
