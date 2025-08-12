@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bibek</h1>
 
-<h3 align="center">Currently pursuing my bachelor's degree in computer application with a goal to become a Full Stack Developer</h3>
+<h4 align="center">Currently pursuing my bachelor's degree in computer application with a goal to become a Full Stack Developer</h4>
 
 <br/>
 
