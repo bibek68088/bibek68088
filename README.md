@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Currently pursuing my bachelor’s degree with a goal to become a Full Stack Developer.</p>
+<h3 align="center">Currently pursuing my bachelor’s degree with a goal to become a Full Stack Developer.</h3>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Currently working as fronend developer at SG Design Group <br>📚 I'm currently learning Strapi <br>🎯 Goals: <br>🎲 Fun fact: ...</p>
 
 ###
 
