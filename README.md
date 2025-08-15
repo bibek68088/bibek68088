@@ -8,7 +8,7 @@
   <tr>
     <td style="border: none; padding-right: 20px; vertical-align: top;">
       <p align="left" style="max-width: 550px; line-height: 1.6; font-size: 1.1rem; margin: 0;">
-        ✨ Currently working as a frontend developer at SG Design Group <br />
+        ✨ Currently working as a frontend developer <br />
         📚 Currently learning Strapi and exploring new backend tools <br />
         🎯 Goals: Master full stack development, contribute to open source, and build scalable apps <br />
         🎲 Fun fact: I love solving puzzles and exploring new tech trends
